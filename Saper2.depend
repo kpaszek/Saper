@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1369210417 source:d:\dokumenty\politechnika poznañska\programowanie niskopoziomowe\myszka\saper2\main.cpp
+	<allegro.h>
+
+1370899655 source:c:\users\krystian\desktop\saper2\main.cpp
+	<allegro.h>
+
+1371377537 source:c:\users\krystian\desktop\saper3\main.cpp
+	<allegro.h>
+	<fstream>
+	<iostream>
+	"tablice.h"
+	"gra.h"
+	"pliki.h"
+
+1371377332 c:\users\krystian\desktop\saper3\tablice.h
+
+1371376852 c:\users\krystian\desktop\saper3\pliki.h
+
+1371377219 c:\users\krystian\desktop\saper3\gra.h
+
+1371376130 source:c:\users\krystian\desktop\saper3\pliki.cpp
+	"pliki.h"
+	<fstream>
+
+1371377180 source:c:\users\krystian\desktop\saper3\gra.cpp
+	<allegro.h>
+	"gra.h"
+
+1371377557 source:c:\users\krystian\desktop\saper3\tablice.cpp
+	<allegro.h>
+	"tablice.h"
+
